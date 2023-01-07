@@ -20,3 +20,6 @@
   </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashim-Stha&show_icons=true)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashim-Stha)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
