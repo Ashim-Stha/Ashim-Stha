@@ -1,7 +1,7 @@
 ###  Hello, I'm Ashim Shrestha!  
 
 **Backend Developer | Blockchain Enthusiast**  
-**Final-year Electronics, Communication & Information Engineering undergrad**, passionate about backend development, databases, and blockchain technology. I specialize in building **scalable and efficient backend systems** with a focus on performance, security, and real-time data handling.  
+**Final-year Electronics, Communication & Information Engineering student at Pashchimanchal Campus, IOE.**, passionate about building scalable backend systems, managing databases, and working with blockchain technologies.  
 
 ---
 
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 #### **DevOps & Infrastructure**  
@@ -55,20 +56,24 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+#### **Tools & Utilities**  
+<p>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 ---
 
-### 📊 GitHub Stats  
-![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashim-Stha&show_icons=true&theme=radical)  
-
-[![Ashim's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashim-Stha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Stha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 📫 Connect with Me  
-📧 **Email:** ashimshrestha2384@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/ashim-shrestha1](#)  
-🌐 **Portfolio:** [ashimshrestha10.com.np](#)  
-
+- **Portfolio:** [ashimshrestha10.com.np](https://ashimshrestha10.com.np)  
+- **LinkedIn:** [linkedin.com/in/ashim-shrestha1](https://www.linkedin.com/in/ashim-shrestha1/)  
+- **Email:** ashimshrestha2384@gmail.com  
 ---
 
 ### 🚀 Let's Build Something Amazing!  
