@@ -5,16 +5,16 @@
 
 ---
 
-### 🔹 What I Do  
-- 🏗️ **Backend Development:** Building scalable APIs and backend systems using **Node.js, NestJS, Express.js**.  
-- 🗄️ **Databases:** Managing **PostgreSQL, MongoDB, and Redis** for efficient data storage and retrieval.  
-- ⚡ **Real-Time Systems:** Implementing **WebSockets, Redis, and event-driven architectures** for live updates.  
-- 🛠️ **Infrastructure & Deployment:** Dockerizing services, configuring **Nginx as a reverse proxy**, and managing deployments.  
-- 🔗 **Blockchain Development:** Writing **Solidity smart contracts**, writing **Hardhat deployment scripts**, testing with **Hardhat**, and integrating **IPFS**.  
+### What I Do  
+- **Backend Development:** Building scalable APIs and backend systems using **Node.js, NestJS, Express.js**.  
+- **Databases:** Managing **PostgreSQL, MongoDB, and Redis** for efficient data storage and retrieval.  
+- **Real-Time Systems:** Implementing **WebSockets, Redis, and event-driven architectures** for live updates.  
+- **Infrastructure & Deployment:** Dockerizing services, configuring **Nginx as a reverse proxy**, and managing deployments.  
+- **Blockchain Development:** Writing **Solidity smart contracts**, writing **Hardhat deployment scripts**, testing with **Hardhat**, and integrating **IPFS**.  
 
 ---
 
-### 🛠 Tech Stack  
+### Tech Stack  
 #### **Programming Languages**  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -70,11 +70,11 @@
 
 ---
 
-### 📫 Connect with Me  
+### Connect with Me  
 - **Portfolio:** [ashimshrestha10.com.np](https://ashimshrestha10.com.np)  
 - **LinkedIn:** [linkedin.com/in/ashim-shrestha1](https://www.linkedin.com/in/ashim-shrestha1/)  
 - **Email:** ashimshrestha2384@gmail.com  
 ---
 
-### 🚀 Let's Build Something Amazing!  
+### Let's Build Something Amazing!  
 I'm always open to discussions, collaborations, and opportunities in **backend development** and **blockchain applications**. Let's connect and build something impactful together!  
